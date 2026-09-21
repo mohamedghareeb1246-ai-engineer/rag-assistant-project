@@ -1,5 +1,10 @@
 # 🧩 Smart Embedded Systems Assistant (Vision + RAG)
 
+
+Test my project(https://rag-assistant-project-dypz9ilaybjwqgdwsfpj5u.streamlit.app/).
+
+
+
 نظام ذكي متكامل يعتمد على الرؤية الحاسوبية (Computer Vision) وتقنية استرجاع البيانات المعزز بالتوليد (RAG) لتقديم استشارات وتفاصيل تقنية دقيقة حول المكونات الإلكترونية والميكروكنترولر بناءً على الصور والأسئلة النصية.
 
 --------------------------------------------------
