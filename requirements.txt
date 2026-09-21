@@ -1,0 +1,9 @@
+streamlit
+chromadb
+groq
+ultralytics
+opencv-python-headless
+pillow
+pypdf
+langchain
+langchain-community
